@@ -1,0 +1,20 @@
+#container{
+	background-color:lightgray;
+	height:800px;
+	width:960px;
+	overflow:hidden;
+	margin:auto;
+
+
+}
+button{
+	margin:auto;
+}
+.unit{
+	background-color:grey;
+	opacity:0.1;
+	height:10px;
+	width:10px;
+	margin:1px;
+	display:inline-block;
+}
